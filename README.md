@@ -1,8 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+The project is a very simple web 3 application that allows users to connect a wallet and interact with a counter smart contract on chain. The counter smart contract keeps track of a number that can be incremented or decremented. 
 
 ## Getting Started
 
-First, run the development server:
+First, open the counterapp and run the development server:
 
 ```bash
 npm run dev
